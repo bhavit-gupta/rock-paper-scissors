@@ -3,7 +3,7 @@
 A fully responsive, beautifully designed Rock, Paper, Scissors game on the web. Experience a premium UI with glassmorphism, glowing gradients, and fluid animations while you battle against a randomized computer opponent!
 
 ## 🎮 Play the Game Live
-**[Click here to play the live game](https://bg-rock-paper-scissors-game.onrender.com/)**  
+**[Click here to play the live game](https://bg-rock-paper-scissors.onrender.com/)**  
 
 ---
 
